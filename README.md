@@ -87,6 +87,7 @@ This project is a smart elevator system for a four-floor building using Arduino.
 ## Demo Video
 
 ---
+> This project demonstrates real-world elevator logic using embedded systems and FSM design.
 
 ## Author
 Md. Samiul Islam Sabbir
